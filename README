@@ -2,5 +2,6 @@ Complex_multiplier - programmed in Verilog to be used on the Altera Cyclone IV F
 Additional Twos compliment state machine also written in Verilog.
 The theory behind the design process can be seen in the PDF below.
 
-[Design_documentation](/Cmulti.pdf)
+[Design_documentation](https://github.com/C-Preston-11/Complex_Multiplier/Cmulti.pdf)
 ![Cmulti.pdf]
+https://github.com/C-Preston-11/Complex_Multiplier
