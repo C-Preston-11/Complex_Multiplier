@@ -1,4 +1,30 @@
+🔢 FPGA Complex Multiplier with Serial Two's Complement
 
-# Complex Multiplier & Serial Two's Compliment for Altera Cyclone IV FPGA  
+A complex multiplier implemented in Verilog HDL for FPGAs, supporting 2-decimal-point fixed-point arithmetic. Includes a serial two's complement converter using a finite state machine (FSM) for efficient signed-number processing.
+
+✨ Key Features
+
+    Complex Number Multiplication:
+
+        Computes (a + bi) * (c + di) = (ac - bd) + (ad + bc)i
+
+        2-decimal fixed-point precision (e.g., 1.23 + 4.56i).
+
+    Serial Two’s Complement:
+
+        FSM-based conversion for signed numbers.
+
+        Processes data bit-by-bit (resource-efficient).
+
+    FPGA-Optimized:
+
+        Pipelined for low latency.
+
+        Verified on Altera FPGA board
 
 [Design process](https://github.com/C-Preston-11/Complex_Multiplier/blob/73cde0bbb00b62a34acb92a4110182f790f9a9ed/Design-process.pdf)
+
+![Multiplier RTL](COMPLEXMULTI_A_RTL.png)
+
+
+![2's comp RTL](twoscompRTL.png)
