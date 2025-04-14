@@ -25,11 +25,13 @@ A complex multiplier implemented in Verilog HDL for FPGAs, supporting 2-decimal-
 [Design process](https://github.com/C-Preston-11/Complex_Multiplier/blob/73cde0bbb00b62a34acb92a4110182f790f9a9ed/Design-process.pdf)
 
 🧮 Design snapshots
+
 ![multidesign](multi.png)
 
 ![twosdesign](twoscomp.png)
 
 💻 RTL of final design
+
 ![Multiplier RTL](COMPLEXMULTI_A_RTL.PNG)
 
 ![2's comp RTL](twoscompRTL.png)
