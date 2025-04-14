@@ -26,6 +26,7 @@ A complex multiplier implemented in Verilog HDL for FPGAs, supporting 2-decimal-
 
 🧮 Design snapshots
 ![multidesign](multi.png)
+
 ![twosdesign](twoscomp.png)
 
 💻 RTL of final design
