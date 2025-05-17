@@ -2,7 +2,7 @@
 
 A complex multiplier implemented in Verilog HDL for FPGAs, supporting 2-decimal-point fixed-point arithmetic. Includes a serial two's complement converter using a finite state machine (FSM) for efficient signed-number processing.
 
-✨ Key Features
+🐈‍⬛ Key Features
 
     Complex Number Multiplication:
 
@@ -24,7 +24,7 @@ A complex multiplier implemented in Verilog HDL for FPGAs, supporting 2-decimal-
 
 [Design process](https://github.com/C-Preston-11/Complex_Multiplier/blob/73cde0bbb00b62a34acb92a4110182f790f9a9ed/Design-process.pdf)
 
-🧮 Design snapshots
+✅ Design snapshots
 
 ![multidesign](multi.png)
 
