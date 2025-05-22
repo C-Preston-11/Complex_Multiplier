@@ -1,6 +1,7 @@
 🔢 FPGA Complex Multiplier with Serial Two's Complement
 
 A complex multiplier implemented in Verilog HDL for FPGAs, supporting 2-decimal-point fixed-point arithmetic. Includes a serial two's complement converter using a finite state machine (FSM) for efficient signed-number processing.
+*actual verilog code file was lost, but the picture of the code used for the report is included. 
 
 🐈‍⬛ Key Features
 
