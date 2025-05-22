@@ -38,4 +38,6 @@ A complex multiplier implemented in Verilog HDL for FPGAs, supporting 2-decimal-
 
 ![Complex_multi_code](complexmulti1_code.jpg)
 
-![Complex_multi2_code](complexmulti2_code.png)
+![Complex_multi2_code](complexmulti2_code.PNG)
+
+![Comples_multi1_testbench](complexmulti1_simulation.png)
