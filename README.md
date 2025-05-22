@@ -41,3 +41,7 @@ A complex multiplier implemented in Verilog HDL for FPGAs, supporting 2-decimal-
 ![Complex_multi2_code](complexmulti2_code.PNG)
 
 ![Comples_multi1_testbench](complexmulti1_simulation.png)
+
+![Comples_multi1_testbench](complexmulti2_simulation.png)
+
+
