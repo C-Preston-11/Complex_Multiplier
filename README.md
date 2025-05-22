@@ -35,3 +35,7 @@ A complex multiplier implemented in Verilog HDL for FPGAs, supporting 2-decimal-
 ![Multiplier RTL](COMPLEXMULTI_A_RTL.PNG)
 
 ![2's comp RTL](twoscompRTL.png)
+
+![Complex_multi_code](complexmulti1_code.jpg)
+
+![Complex_multi2_code](complexmulti2_code.png)
